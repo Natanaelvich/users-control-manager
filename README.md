@@ -14,13 +14,7 @@
 
 Users Control Manager made with expressjs and typeorm.
 
-## 🖼 GIF
-<p align='center'>
-<img src='https://user-images.githubusercontent.com/52014318/145698470-a088b896-a58f-4922-83ba-ba8c2e8da5e0.gif' width='375' />
-</p>
-
 ## ✨ Technologies!
-
 
 This project was developed with the following technologies:
 
